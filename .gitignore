@@ -1,0 +1,18 @@
+# SolidWorks yedek ve geçici dosyaları
+~$*
+*.bak
+*.sldbak
+*.swb
+*.dwl
+*.dwl2
+swxJRNL.*
+Backup/
+
+# Dilimleyici çıktıları
+*.gcode
+*.gcode.3mf
+
+# İşletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
