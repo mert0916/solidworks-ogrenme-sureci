@@ -100,6 +100,33 @@
 | Alana Yakınlaştır | Zoom to Area |
 | Gizle/Göster | Hide/Show |
 
+## Teknik resim (Drawing) — Gün 2
+
+| Türkçe | English |
+|---|---|
+| Teknik Resim | Drawing |
+| Çalışma sayfası | Sheet |
+| Şablon | Template |
+| Görünüm Paleti | View Palette |
+| Model Görünümü | Model View |
+| Yansıtılmış görünüm | Projected View |
+| Kesit Görünümü | Section View |
+| Kesme Çizgisi | Cutting Line / Section Line |
+| Yönü ters çevir | Flip Direction |
+| Detay Görünüm | Detail View |
+| Merkez İşareti | Center Mark |
+| Merkez Çizgisi | Centerline |
+| Detaylandırma (sekme) | Annotation |
+| Ölçümlendirme Metni | Dimension Text |
+| Tolerans/Duyarlılık | Tolerance/Precision |
+| Birim Duyarlılığı | Unit Precision |
+| Teğet kenarları | Tangent Edges |
+| Arka Kenarları Gizle | Hidden Lines Removed |
+| Görüntü Stili | Display Style |
+| Özel ölçek kullan | Use Custom Scale |
+| Parçadan Teknik Resim Oluştur | Make Drawing from Part |
+| Tümünü Kaydet | Save All |
+
 ---
 
 ## Doğrulanacak

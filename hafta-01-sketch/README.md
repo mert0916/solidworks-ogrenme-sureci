@@ -5,7 +5,7 @@
 ## Öğretici sırası
 Kaynak: `Yardım > SOLIDWORKS Öğreticileri` (dahili, çevrimdışı)
 
-- [x] SOLIDWORKS'e Giriş → [Gün 1: pressure_plate](g01-pressure-plate/)
+- [x] SOLIDWORKS'e Giriş → [Gün 1: pressure_plate](g01-pressure-plate/) · [Gün 2: teknik resim](g02-teknik-resim/)
 - [ ] AutoCAD ve SOLIDWORKS ← AutoCAD geçmişi için kritik
 - [ ] Ders 1: Parçalar
 - [ ] Ders 3: Teknik Resimler

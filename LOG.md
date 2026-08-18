@@ -10,6 +10,19 @@ En yeni kayıt en üstte. Her gün 3 soru: **ne yaptım / ne takıldı / nasıl 
 
 ## Hafta 1 — Sketch disiplini
 
+### Gün 02 — 18.08.2026 (Salı)
+
+**Konu:** Dahili öğretici — `Başlarken > SOLIDWORKS'e Giriş > İlk Teknik Resmim` · **Rehbersiz tekrar:** ❌ *(ikinci güne devredildi)*
+
+- **Ne yaptım:** Gün 1'de modellediğim `pressure_plate` parçasından teknik resim türettim. Üst görünüm (1:2, arka kenarlar gizli), A-A kesit görünümü, B detay görünümü ve gölgeli izometrik görünüm oluşturdum. Merkez işaretleri ve merkez çizgileri ekledim, dört çap ölçüsü yerleştirdim, ölçü metnini `6x` ve `THRU` ekleyerek düzenledim. → [Ayrıntılı not](hafta-01-sketch/g02-teknik-resim/)
+- **Ne takıldı:** Takılma olmadı, öğretici adım adım yönlendirdi.
+- **Nasıl çözdüm:** —
+- **Kalan soru işareti:** Ölçüler iki ondalıklı çıktı (`Ø25.00`), referansta ondalık yok. `Birim Duyarlılığı = Hiçbiri` ayarı atlanmış. Detay B'deki üçüncü ölçü referanstan farklı (`12.00` yerine `R2` olmalı) — kontrol edilecek.
+
+**Günün kavrayışı:** Teknik resim ayrı bir çizim değil, modelin türevi. Ölçü metnindeki `<MOD-DIAM>` bir değişken — `6x Ø27` yazdığımda 27 hâlâ modele bağlı kalıyor. AutoCAD'de görünümler elle çizilir ve model değişince hepsi elle güncellenir; burada bağ kurulduğu için güncelleme kendiliğinden oluyor.
+
+**Devreden görev:** Rehbersiz tekrar iki gündür yapılmadı. Gün 1'in açık sorusu (`Son Koşulu` seçenekleri) da hâlâ cevapsız.
+
 ### Gün 01 — 17.08.2026 (Pazartesi)
 
 **Konu:** Dahili öğretici — `Başlarken > SOLIDWORKS'e Giriş > İlk Parçam` (25 sayfa) · **Rehbersiz tekrar:** ❌ *(Gün 2'ye devredildi)*

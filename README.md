@@ -12,8 +12,8 @@ Dicle Üniversitesi Makine Mühendisliği 3. sınıf öğrencisiyim. Bu repo, 16
 |---|---|
 | **Başlangıç** | 16 Ağustos 2026 |
 | **Yoğun dönem** | 16 Ağustos – 20 Eylül 2026 (35 gün) |
-| **Aktif hafta** | Hafta 1 — Sketch disiplini (Gün 1/7) |
-| **Toplam kayıtlı gün** | 1 |
+| **Aktif hafta** | Hafta 1 — Sketch disiplini (Gün 2/7) |
+| **Toplam kayıtlı gün** | 2 |
 | **Sürüm** | SolidWorks Premium 2025 SP1.2 (Türkçe arayüz) |
 
 ## Haftalık plan ve bitiş görevleri
@@ -47,3 +47,9 @@ Tüm günlük kayıtlar → **[LOG.md](LOG.md)**
 ---
 
 *Sonraki adım: Ekim 2026'da gripper projesi ayrı bir repoda başlayacak → `xarm5-adaptif-gripper`*
+
+## Lisans
+
+Bu depodaki kod ve betikler MIT Lisansı altındadır (bkz. `LICENSE`).
+
+Notlar, dokümantasyon, ölçüm verileri, görseller ve CAD dosyaları [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.tr) kapsamında paylaşılmıştır: kullanabilir, uyarlayabilir ve dağıtabilirsiniz — kaynak göstermek kaydıyla.
