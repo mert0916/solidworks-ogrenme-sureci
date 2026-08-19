@@ -12,8 +12,8 @@ Dicle Üniversitesi Makine Mühendisliği 3. sınıf öğrencisiyim. Bu repo, 16
 |---|---|
 | **Başlangıç** | 16 Ağustos 2026 |
 | **Yoğun dönem** | 16 Ağustos – 20 Eylül 2026 (35 gün) |
-| **Aktif hafta** | Hafta 1 — Sketch disiplini (Gün 2/7) |
-| **Toplam kayıtlı gün** | 2 |
+| **Aktif hafta** | Hafta 1 — Sketch disiplini (Gün 3/7) |
+| **Toplam kayıtlı gün** | 3 |
 | **Sürüm** | SolidWorks Premium 2025 SP1.2 (Türkçe arayüz) |
 
 ## Haftalık plan ve bitiş görevleri

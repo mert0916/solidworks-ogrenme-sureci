@@ -3,13 +3,17 @@
 **Bitiş görevi:** Orta zorlukta bir sketch'i 10 dakikada, rehbersiz, Fully Defined çizmek.
 
 ## Öğretici sırası
+
 Kaynak: `Yardım > SOLIDWORKS Öğreticileri` (dahili, çevrimdışı)
 
+**Not (Gün 3):** Öğreticinin kendi yönlendirmesi, `AutoCAD ve SOLIDWORKS` bölümüne geçmeden önce Ders 1-2-3'ün sırayla tamamlanmasını söylüyor. Sıra buna göre düzeltildi.
+
 - [x] SOLIDWORKS'e Giriş → [Gün 1: pressure_plate](g01-pressure-plate/) · [Gün 2: teknik resim](g02-teknik-resim/)
-- [ ] AutoCAD ve SOLIDWORKS ← AutoCAD geçmişi için kritik
-- [ ] Ders 1: Parçalar
-- [ ] Ders 3: Teknik Resimler
-- [ ] Ders 2: Montajlar
+- [x] 1. Ders — Parçalar → [Gün 3: Tutor1](g03-tutor1/)
+- [ ] 2. Ders — Montajlar
+- [ ] 3. Ders — Teknik Resimler
+- [ ] AutoCAD ve SOLIDWORKS
+- [ ] **Rehbersiz tekrar:** pressure_plate'i öğreticisiz çiz ← devreden görev
 
 ## Bu hafta oturması gerekenler
 

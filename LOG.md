@@ -10,6 +10,23 @@ En yeni kayıt en üstte. Her gün 3 soru: **ne yaptım / ne takıldı / nasıl 
 
 ## Hafta 1 — Sketch disiplini
 
+### Gün 03 — 19.08.2026 (Çarşamba)
+
+**Konu:** Dahili öğretici — `Temel Teknikler > 1. Ders — Parçalar` (Tutor1) · **Rehbersiz tekrar:** ❌ *(üçüncü güne devredildi)*
+
+- **Ne yaptım:** 120×120×30 taban, Ø70 boss (25 mm), Ø50 delik, iki radyus unsuru (R5 ve R1,5) ve 2 mm kabuk ile Tutor1 parçasını modelledim. Ardından öğreticinin düzenleme bölümünü yaptım: taban derinliğini 30→50 değiştirdim, `Radyus1` içinden yüz öğesini silip kenar yarıçapını R10'a çıkardım, silinen yüz radyusunu **geri alma çubuğunu `Kabuk1`in üstüne çekerek** yeniden ekledim. Son olarak RealView ve Kromlu Paslanmaz Çelik malzemesi atadım. → [Ayrıntılı not](hafta-01-sketch/g03-tutor1/)
+- **Ne takıldı:** Takılma olmadı.
+- **Nasıl çözdüm:** —
+- **Kalan soru işareti:** —
+
+**Günün kavrayışı:** Geri alma çubuğu. Radyusu kabuktan sonra eklersem kabuk o bölgeyi kapsamıyor; çubuğu `Kabuk1`in üstüne çekip radyusu **geçmişe** eklediğimde kabuk yeniden hesaplanırken onu da içine alıyor. Unsur ağacı bir liste değil, bir işlem sırası — sıra değişirse sonuç değişir.
+
+**İkinci kavrayış:** Bir radyus unsuru birden çok öğe taşıyabiliyor, ama birlikte değişmeyecek öğeleri aynı unsura koymak sonradan sorun çıkarıyor. `Radyus1` hem yüz hem kenar içerdiği için sadece kenarları değiştirmek üzere önce yüzü unsurdan silmem gerekti.
+
+**Bulgu:** `Son Koşulu` için öğreticilerde üç ayrı Türkçe ifade kullanılıyor — `Tümü Boyunca`, `Her Şeyin İçinden`, `Hepsinin İçinden`. Üçü de aynı işi yapıyor (İngilizce `Through All`). Ayrı seçenekler değil, tutarsız çeviriler. Kesin doğrulama açılır listeye bakılarak yapılacak.
+
+**Plan değişikliği:** Öğreticinin kendi yönlendirmesi, `AutoCAD ve SOLIDWORKS` bölümüne geçmeden önce Ders 1-2-3'ün sırayla tamamlanmasını söylüyor. Hafta 1 sırası buna göre güncellendi.
+
 ### Gün 02 — 18.08.2026 (Salı)
 
 **Konu:** Dahili öğretici — `Başlarken > SOLIDWORKS'e Giriş > İlk Teknik Resmim` · **Rehbersiz tekrar:** ❌ *(ikinci güne devredildi)*

@@ -127,10 +127,42 @@
 | Parçadan Teknik Resim Oluştur | Make Drawing from Part |
 | Tümünü Kaydet | Save All |
 
+## Parça modelleme — Gün 3
+
+| Türkçe | English |
+|---|---|
+| Köşe ile Dikdörtgen | Corner Rectangle |
+| Kabuk | Shell |
+| Kalınlık | Thickness |
+| Geri alma çubuğu | Rollback bar |
+| Yeniden Oluştur | Rebuild |
+| Unsuru Düzenle | Edit Feature |
+| Çizimi Düzenle | Edit Sketch |
+| Radyus Uygulanacak Öğeler | Items to Fillet |
+| Tam Önizleme | Full Preview |
+| Kesit Görünümü (3B) | Section View |
+| Görünümü Döndür | Rotate View |
+| Seçime Yakınlaştır | Zoom to Selection |
+| Gerçekçi Görünüm | RealView Graphics |
+| Malzemeyi Düzenle | Edit Material |
+| Kromlu Paslanmaz Çelik | Chrome Stainless Steel |
+| Yakalamalar | Snaps |
+| Çizim İlişkileri | Sketch Relations |
+
 ---
 
 ## Doğrulanacak
 
-**"Her Şeyin İçinden"** — Gün 1 öğreticisinde `Tümü Boyunca` ile birlikte, iki ayrı yerde iki ayrı isimle kullanıldı. İngilizce karşılığının `Through All` mu, `Through All - Both` mu olduğu belirsiz. Muhtemelen aynı seçeneğin tutarsız çevirisi.
+**Son Koşulu — üç farklı Türkçe ifade.** Aynı öğretici serisinde tek bir seçenek için üç ayrı karşılık kullanılıyor:
 
-*Bu, arayüzü İngilizce'ye çevirmek için tek başına yeterli bir sebep: Türkçe çeviri, aynı seçeneği iki farklı isimle gösterdiğinde neyi seçtiğini bilemiyorsun.*
+| Öğretici | İfade |
+|---|---|
+| İlk Parçam — merkez delik | Tümü Boyunca |
+| İlk Parçam — silindir deliği | Her Şeyin İçinden |
+| Ders 1 — Ø50 delik | Hepsinin İçinden |
+
+Üçü de aynı işi yapıyor. İngilizce karşılığı: **`Through All`**.
+
+**Sonuç:** Ayrı seçenekler değil, tutarsız çeviriler. Kesin doğrulama için `Ekstrüzyon ile Kes > Son Koşulu` açılır listesindeki madde sayısına bakılacak.
+
+*Bu, arayüzü İngilizce'ye çevirmek için tek başına yeterli bir sebep: `Through All` tek isimdir, belirsizlik yoktur.*
